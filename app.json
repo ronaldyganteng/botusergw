@@ -9,7 +9,7 @@
       "manager",
       "3"
     ],
-    "repository": "https://github.com/agung267/NISA",
+    "repository": "https://github.com/ronaldyganteng/Nayla",
     "env": {
       "ENV": {
         "description": "Setting this to ANYTHING will enable env variables",
@@ -17,7 +17,7 @@
       },
       "TOKEN": {
         "description": "Your bot token, as a string.",
-        "value": "1664664230:AAEZ1XJ4a6c_c5k_ZroBD9ugr9u438--4H0"
+        "value": "1651357160:AAFCmi-W-jG7MNZri1uekaLme73EB1hBXFs"
       },
       "OWNER_ID": {
         "description": "An integer of consisting of your owner ID",
@@ -25,7 +25,7 @@
       },
       "OWNER_USERNAME": {
         "description": "Your username",
-        "value": "sayangkegw"
+        "value": "afterdaytoxic"
       },
       "WEBHOOK": {
         "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
